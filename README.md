@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi Shelia</h1>
 <h3 align="center">👋 Hey there! I’m a web developer on a mission to create seamless and engaging digital experiences. With a passion for innovation, I thrive on turning complex ideas into user-friendly applications that people love to use.</h3>
 
-- 🔭 I’m currently working on **IWA Immersive Weather app and Herio**
+- 🔭 I’m currently working on **IWA Immersive Weather app** and **Herio**
 
 - 🌱 I’m currently learning **Webflow**
 
